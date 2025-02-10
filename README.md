@@ -1,5 +1,5 @@
 # Leprechaun-Adventure-Android
-A prototype platformer game I created in 2020 for my graduation project. Rebuilded for android in 2022.
+A prototype platformer game I created in 2020 for my graduation project. Rebuilded for android in 2021.
 
 User Guide:
 
